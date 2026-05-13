@@ -1,16 +1,41 @@
-## Hi there 👋
+````md
+# 👾 Gabriel da Silva Martins
 
-<!--
-**Gabriel-93dev/gabriel-93dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+> booting develope
+r profile...
+> access granted ✔
+````
 
-Here are some ideas to get you started:
+## 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🚀 Desenvolvedor web focado em HTML, CSS e JavaScript
+* 🔐 Estudando cibersegurança e desenvolvimento moderno
+* 📱 Criando PWAs, aplicações web e projetos próprios
+* 🎮 Atualmente estudando programação de jogos no SENAC
+* 🧠 Apaixonado por tecnologia desde os 10 anos
+
+## ⚡ Tech Stack
+
+```js
+HTML • CSS • JavaScript • PWA • Git • Cybersecurity
+```
+
+## 🛠 Current Status
+
+* 🌱 Aprendendo desenvolvimento avançado e novas tecnologias
+* 🔭 Trabalhando em projetos pessoais e aplicações web
+* 👯 Procurando colaborar em projetos criativos e open source
+* 💬 Pergunte sobre front-end, PWAs e tecnologia
+* 📫 Contato: [gabrielsilvaalexandre386@gmail.com](mailto:gabrielsilvaalexandre386@gmail.com)
+
+## 🌑 Fun Fact
+
+```python
+while(alive):
+    code()
+    learn()
+    evolve()
+```
+
+
